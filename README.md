@@ -10,6 +10,8 @@ Borcherd</a></h1>
 
 - 🤝 I’m available for freelancing.
 
+- 🔭 Last job: Frontend lead @ <a href="https://www.sedn.xyz/" target="blank">sedn.xyz</a>
+
 - 🌱 Learning react-native with <a href="https://github.com/coral-xyz/xnft-quickstart" target="blank">xnft's</a>
 
 - 🔭 Never not working on <a href="https://www.solanadino.com/" target="blank">SolanaDino</a>
@@ -20,7 +22,7 @@ Borcherd</a></h1>
 
 - 📄 Know about my experiences <a href="https://github.com/borcherd/borcherd/blob/main/Borcherd_Van_Brakell_-_Front-end_Engineer.pdf" target="blank">Resume</a>
 <br/>
-<br/>
+
 
 <p align="center">
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
