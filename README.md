@@ -10,7 +10,7 @@ Borcherd</a></h1>
 
 - 🤝 I’m available for freelancing.
 
-- 🔭 Last job: Frontend lead @ <a href="https://www.sedn.xyz/" target="blank">sedn.xyz</a>
+- 🔭 Last job: Frontend lead @ <a href="https://www.peanut.to/" target="blank">peanut.to</a>
 
 - 🌱 Learning react-native with <a href="https://github.com/coral-xyz/xnft-quickstart" target="blank">xnft's</a>
 
